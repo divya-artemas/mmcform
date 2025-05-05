@@ -1,0 +1,4560 @@
+[20-Mar-2025 14:53:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:05:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:23:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:26:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:28:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:31:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:32:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[20-Mar-2025 15:38:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 07:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 07:21:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 07:24:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 07:26:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 07:30:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 08:04:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 08:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 08:12:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 08:17:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:02:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:07:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:15:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:20:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:23:56 UTC] CF7 POSTED DATA:
+Array
+(
+    [facility] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => 
+    [periodnum] => 
+    [today-date] => 2025-03-21
+    [start-time] => 2025-03-21T10:27:57.853Z
+    [end-time] => default
+    [total-session-time] => default
+    [session-number] => 20250321-ABC123
+    [observer] => 
+    [page-n] => 20250321-021
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat] => 
+    [code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num] => 
+    [hh-action] => Array
+        (
+            [0] => 1
+        )
+
+    [code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [item_1] => Array
+        (
+            [0] => Orange
+        )
+
+    [qty_1] => Array
+        (
+            [0] => 2
+        )
+
+    [item_2] => Array
+        (
+            [0] => Banana
+        )
+
+    [qty_2] => Array
+        (
+            [0] => 2
+        )
+
+    [item_3] => Array
+        (
+            [0] => Apple
+        )
+
+    [qty_3] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [item_4] => Array
+        (
+            [0] => Banana
+        )
+
+    [qty_4] => Array
+        (
+            [0] => 3
+        )
+
+    [duration] => 
+    [indication_1] => Array
+        (
+        )
+
+    [indication] => Array
+        (
+        )
+
+    [indication_2] => Array
+        (
+        )
+
+    [indication_3] => Array
+        (
+        )
+
+    [indication_4] => Array
+        (
+        )
+
+    [custom-input] => 
+    [combined_items] => Array (Qty: 2)
+Array (Qty: 2)
+Array (Qty: 1, 2)
+Array (Qty: 3)
+)
+
+[21-Mar-2025 10:24:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:28:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:35:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 10:36:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 11:15:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 11:21:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 11:35:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 11:42:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:03:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:07:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:13:19 UTC] CF7 Submission Data:
+Array
+(
+    [facility] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => 
+    [periodnum] => 
+    [today-date] => 2025-03-21
+    [start-time] => 2025-03-21T12:17:05.011Z
+    [end-time] => default
+    [total-session-time] => default
+    [session-number] => 20250321-ABC123
+    [observer] => 
+    [page-n] => 20250321-035
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => Doctor
+    [code_1] => Array
+        (
+            [0] => 3.1
+        )
+
+    [num_1] => 123
+    [indication_1_1] => Array
+        (
+            [0] => 1
+            [1] => 4
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 2
+        )
+
+    [indication_1_2] => Array
+        (
+            [0] => 5
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 1
+        )
+
+    [prof-cat_2] => Nurse
+    [code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 321
+    [indication_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_2_2] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_2_2] => Array
+        (
+            [0] => 3
+        )
+
+    [duration] => 
+)
+
+[21-Mar-2025 12:13:19 UTC] Combined Entries:
+--- Entry 1 ---
+Prof. Cat: Doctor
+Code: 
+No: 123
+
+Opportunities:
+1. Indication: 1, 4 | HH Action: 
+2. Indication: 5 | HH Action: 
+
+--- Entry 2 ---
+Prof. Cat: Nurse
+Code: 
+No: 321
+
+Opportunities:
+1. Indication: 1 | HH Action: 
+2. Indication: 3 | HH Action: 
+
+
+[21-Mar-2025 12:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:611
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_code_labels(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugi in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 611
+[21-Mar-2025 12:17:28 UTC] CF7 Submission Data:
+Array
+(
+    [facility] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => 
+    [periodnum] => 
+    [today-date] => 2025-03-21
+    [start-time] => 2025-03-21T12:21:23.837Z
+    [end-time] => default
+    [total-session-time] => default
+    [session-number] => 20250321-ABC123
+    [observer] => 
+    [page-n] => 20250321-036
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => Doctor
+    [code_1] => Array
+        (
+            [0] => 3.1
+        )
+
+    [num_1] => 123
+    [indication_1_1] => Array
+        (
+            [0] => 1
+            [1] => 4
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_1_2] => Array
+        (
+            [0] => 5
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 1
+        )
+
+    [prof-cat_2] => Nurse
+    [code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 321
+    [indication_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_2_1] => Array
+        (
+            [0] => 2
+        )
+
+    [indication_2_2] => Array
+        (
+            [0] => 3
+            [1] => 5
+        )
+
+    [hh-action_2_2] => Array
+        (
+            [0] => 1
+        )
+
+    [duration] => 
+)
+
+[21-Mar-2025 12:17:28 UTC] Combined Entries:
+--- Entry 1 ---
+Prof. Cat: Doctor
+Code: 
+No: 123
+
+Opportunities:
+1. Indication: 1, 4 | HH Action: 
+2. Indication: 5 | HH Action: 
+
+--- Entry 2 ---
+Prof. Cat: Nurse
+Code: 
+No: 321
+
+Opportunities:
+1. Indication: 1 | HH Action: 
+2. Indication: 3, 5 | HH Action: 
+
+
+[21-Mar-2025 12:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:611
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_code_labels(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugi in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 611
+[21-Mar-2025 12:19:15 UTC] CF7 Submission Data:
+Array
+(
+    [facility] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => 
+    [periodnum] => 
+    [today-date] => 2025-03-21
+    [start-time] => 2025-03-21T12:23:03.483Z
+    [end-time] => default
+    [total-session-time] => default
+    [session-number] => 20250321-ABC123
+    [observer] => 
+    [page-n] => 20250321-037
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => Doctor
+    [code_1] => Array
+        (
+            [0] => 3.1
+        )
+
+    [num_1] => 123
+    [indication_1_1] => Array
+        (
+            [0] => 1
+            [1] => 4
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_1_2] => Array
+        (
+            [0] => 5
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 3
+        )
+
+    [prof-cat_2] => Nurse
+    [code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 321
+    [indication_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_2_2] => Array
+        (
+            [0] => 3
+            [1] => 5
+        )
+
+    [hh-action_2_2] => Array
+        (
+            [0] => 1
+        )
+
+    [duration] => 
+)
+
+[21-Mar-2025 12:19:15 UTC] Combined Entries:
+--- Entry 1 ---
+Prof. Cat: Doctor
+Code: 
+No: 123
+
+Opportunities:
+1. Indication: 1, 4 | HH Action: 
+2. Indication: 5 | HH Action: 
+
+--- Entry 2 ---
+Prof. Cat: Nurse
+Code: 
+No: 321
+
+Opportunities:
+1. Indication: 1 | HH Action: 
+2. Indication: 3, 5 | HH Action: 
+
+
+[21-Mar-2025 12:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:611
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_code_labels(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugi in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 611
+[21-Mar-2025 12:21:19 UTC] CF7 Submission Data:
+Array
+(
+    [facility] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => 
+    [periodnum] => 
+    [today-date] => 2025-03-21
+    [start-time] => 2025-03-21T12:25:09.783Z
+    [end-time] => default
+    [total-session-time] => default
+    [session-number] => 20250321-ABC123
+    [observer] => 
+    [page-n] => 20250321-038
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => Doctor
+    [code_1] => Array
+        (
+            [0] => 3.1
+        )
+
+    [num_1] => 123
+    [indication_1_1] => Array
+        (
+            [0] => 4
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 2
+        )
+
+    [indication_1_2] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 3
+        )
+
+    [prof-cat_2] => Nurse
+    [code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 321
+    [indication_2_1] => Array
+        (
+            [0] => 1
+            [1] => 4
+        )
+
+    [hh-action_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_2_2] => Array
+        (
+            [0] => 3
+            [1] => 5
+        )
+
+    [hh-action_2_2] => Array
+        (
+            [0] => 3
+        )
+
+    [duration] => 
+)
+
+[21-Mar-2025 12:21:19 UTC] Combined Entries:
+--- Entry 1 ---
+Prof. Cat: Doctor
+Code: 
+No: 123
+
+Opportunities:
+1. Indication: 4 | HH Action: 
+2. Indication: 3 | HH Action: 
+
+--- Entry 2 ---
+Prof. Cat: Nurse
+Code: 
+No: 321
+
+Opportunities:
+1. Indication: 1, 4 | HH Action: 
+2. Indication: 3, 5 | HH Action: 
+
+
+[21-Mar-2025 12:21:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:611
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_code_labels(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugi in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 611
+[21-Mar-2025 12:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:26:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:31:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:601
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_labels(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/co in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 601
+[21-Mar-2025 12:33:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:603
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_code_labels(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugi in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 603
+[21-Mar-2025 12:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:597
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_code_labels_safe(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/ in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 597
+[21-Mar-2025 12:40:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:43:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 12:48:57 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:48:57 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:48:57 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:48:57 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:664
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_hh_mapping(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugin in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 664
+[21-Mar-2025 12:50:24 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:50:24 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:50:24 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:50:24 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 618
+[21-Mar-2025 12:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:664
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_hh_mapping(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugin in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 664
+[21-Mar-2025 12:52:32 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 650
+[21-Mar-2025 12:52:32 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 656
+[21-Mar-2025 12:52:32 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 650
+[21-Mar-2025 12:52:32 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 656
+[21-Mar-2025 12:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:671
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_safe_mapping(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plug in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 671
+[21-Mar-2025 12:54:08 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 650
+[21-Mar-2025 12:54:08 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 656
+[21-Mar-2025 12:54:08 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 650
+[21-Mar-2025 12:54:08 UTC] PHP Warning:  Illegal offset type in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 656
+[21-Mar-2025 12:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::add_posted_data() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php:671
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(326): combine_cf7_entries_with_safe_mapping(Object(WPCF7_ContactForm))
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(713): do_action_ref_array('wpcf7_before_se...', Array)
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plugins/contact-form-7/includes/submission.php(111): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/plug in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 671
+[21-Mar-2025 12:59:30 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 633
+[21-Mar-2025 12:59:30 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 640
+[21-Mar-2025 12:59:30 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 633
+[21-Mar-2025 12:59:30 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 640
+[21-Mar-2025 12:59:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 13:02:03 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 633
+[21-Mar-2025 13:02:03 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 640
+[21-Mar-2025 13:02:03 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 633
+[21-Mar-2025 13:02:03 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 640
+[21-Mar-2025 13:02:03 UTC] === CF7 Posted Data Dump ===
+Array
+(
+    [facility] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => 
+    [periodnum] => 
+    [today-date] => 2025-03-21
+    [start-time] => 2025-03-21T13:06:07.868Z
+    [end-time] => default
+    [total-session-time] => default
+    [session-number] => 20250321-ABC123
+    [observer] => 
+    [page-n] => 20250321-053
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [hh-action_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 3
+        )
+
+    [prof-cat_2] => 
+    [code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [hh-action_2_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_2_2] => Array
+        (
+            [0] => 3
+        )
+
+    [duration] => 
+    [indication_1_1] => Array
+        (
+        )
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [combined_entries] => --- Entry 1 ---
+Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: -
+2. Indication:  | HH Action: -
+
+
+--- Entry 2 ---
+Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: -
+2. Indication:  | HH Action: -
+
+)
+
+[21-Mar-2025 13:02:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 13:04:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 13:05:15 UTC] HH Action Raw Data:
+
+[21-Mar-2025 13:05:20 UTC] HH Action Raw Data:
+
+[21-Mar-2025 13:06:50 UTC] HH Action Raw Data:
+
+[21-Mar-2025 13:06:51 UTC] HH Action Raw Data:
+
+[21-Mar-2025 13:07:14 UTC] HH Action Raw Data:
+
+[21-Mar-2025 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/wp-content/themes/best-responsive/functions.php on line 453
+[21-Mar-2025 13:07:23 UTC] HH Action Raw Data:
+
+[18-Apr-2025 09:11:43 UTC] PHP Warning:  require_once(../../../wp-load.php): failed to open stream: No such file or directory in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/view-handhygiene.php on line 3
+[18-Apr-2025 09:11:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../wp-load.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bi1g8m9kne3q/public_html/mwduat.com/mmcform/view-handhygiene.php on line 3
+[19-Apr-2025 16:46:20 UTC] ==== CF7 Raw Posted Data ====
+Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => IPD
+        )
+
+    [ward] => Array
+        (
+            [0] => IPD
+        )
+
+    [department] => Array
+        (
+            [0] => PLASTIC SURGERY 1
+        )
+
+    [country] => Qatar
+    [periodnum] => Asish-IT-Test123
+    [date-of-observation] => 2025-04-19
+    [start-time] => 19:45:11
+    [end-time] => 19:46:18
+    [session-duration] => 00:01:07
+    [session-number] => 20250419-ABC123
+    [observer-initials] => AsishOber
+    [page-n] => 20250419-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [indication_1_1] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 4
+        )
+
+    [indication_1_3] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_1_4] => Array
+        (
+            [0] => 3
+        )
+
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 3.7
+        )
+
+    [num_2] => 
+    [indication_2_1] => Array
+        (
+            [0] => 4
+        )
+
+    [hh-action_2_1] => Array
+        (
+            [0] => 4
+        )
+
+    [indication_2_3] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_2_4] => Array
+        (
+            [0] => 2
+        )
+
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 3.7
+        )
+
+    [num_3] => 
+    [indication_3_1] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_3_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_3_3] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_3_3] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_3_4] => Array
+        (
+            [0] => 2
+        )
+
+    [hh-action_3_4] => Array
+        (
+            [0] => 2
+        )
+
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 4.1
+        )
+
+    [num_4] => 
+    [indication_4_1] => Array
+        (
+            [0] => 5
+        )
+
+    [hh-action_4_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_4_3] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_4_3] => Array
+        (
+            [0] => 2
+        )
+
+    [indication_4_4] => Array
+        (
+            [0] => 2
+        )
+
+    [hh-action_4_4] => Array
+        (
+            [0] => 4
+        )
+
+    [reporting-month] => Apr-2025
+    [entry_1_data] => 
+    [entry_2_data] => 
+    [entry_3_data] => 
+    [entry_4_data] => 
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[19-Apr-2025 16:46:20 UTC] ==== CF7 Raw Posted Data ====
+[19-Apr-2025 16:46:20 UTC] Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => IPD
+        )
+
+    [ward] => Array
+        (
+            [0] => IPD
+        )
+
+    [department] => Array
+        (
+            [0] => PLASTIC SURGERY 1
+        )
+
+    [country] => Qatar
+    [periodnum] => Asish-IT-Test123
+    [date-of-observation] => 2025-04-19
+    [start-time] => 19:45:11
+    [end-time] => 19:46:18
+    [session-duration] => 00:01:07
+    [session-number] => 20250419-ABC123
+    [observer-initials] => AsishOber
+    [page-n] => 20250419-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [indication_1_1] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 4
+        )
+
+    [indication_1_3] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_1_4] => Array
+        (
+            [0] => 3
+        )
+
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 3.7
+        )
+
+    [num_2] => 
+    [indication_2_1] => Array
+        (
+            [0] => 4
+        )
+
+    [hh-action_2_1] => Array
+        (
+            [0] => 4
+        )
+
+    [indication_2_3] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_2_4] => Array
+        (
+            [0] => 2
+        )
+
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 3.7
+        )
+
+    [num_3] => 
+    [indication_3_1] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_3_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_3_3] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_3_3] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_3_4] => Array
+        (
+            [0] => 2
+        )
+
+    [hh-action_3_4] => Array
+        (
+            [0] => 2
+        )
+
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 4.1
+        )
+
+    [num_4] => 
+    [indication_4_1] => Array
+        (
+            [0] => 5
+        )
+
+    [hh-action_4_1] => Array
+        (
+            [0] => 1
+        )
+
+    [indication_4_3] => Array
+        (
+            [0] => 3
+        )
+
+    [hh-action_4_3] => Array
+        (
+            [0] => 2
+        )
+
+    [indication_4_4] => Array
+        (
+            [0] => 2
+        )
+
+    [hh-action_4_4] => Array
+        (
+            [0] => 4
+        )
+
+    [reporting-month] => Apr-2025
+    [entry_1_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication: 3 | HH Action: 4
+2. Indication:  | HH Action: 
+3. Indication: 3 | HH Action: 
+4. Indication: 3 | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_2_data] => Prof. Cat: 
+Code: 3.7
+No: 
+
+Opportunities:
+1. Indication: 4 | HH Action: 4
+2. Indication:  | HH Action: 
+3. Indication: 3 | HH Action: 
+4. Indication: 2 | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_3_data] => Prof. Cat: 
+Code: 3.7
+No: 
+
+Opportunities:
+1. Indication: 3 | HH Action: 1
+2. Indication:  | HH Action: 
+3. Indication: 3 | HH Action: 3
+4. Indication: 2 | HH Action: 2
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_4_data] => Prof. Cat: 
+Code: 4.1
+No: 
+
+Opportunities:
+1. Indication: 5 | HH Action: 1
+2. Indication:  | HH Action: 
+3. Indication: 3 | HH Action: 2
+4. Indication: 2 | HH Action: 4
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[19-Apr-2025 23:30:46 UTC] Cron reschedule event error for hook: wp_update_themes, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[20-Apr-2025 11:49:33 UTC] ==== CF7 Raw Posted Data ====
+Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 2
+        )
+
+    [country] => Qatar
+    [periodnum] => 1
+    [date-of-observation] => 2025-04-20
+    [start-time] => 17:23:11
+    [end-time] => 17:24:03
+    [session-duration] => 00:00:51
+    [session-number] => 20250420-ABC123
+    [observer-initials] => D
+    [page-n] => 20250420-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [indication_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 2
+        )
+
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => 
+    [entry_2_data] => 
+    [entry_3_data] => 
+    [entry_4_data] => 
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[20-Apr-2025 11:49:33 UTC] ==== CF7 Raw Posted Data ====
+[20-Apr-2025 11:49:33 UTC] Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 2
+        )
+
+    [country] => Qatar
+    [periodnum] => 1
+    [date-of-observation] => 2025-04-20
+    [start-time] => 17:23:11
+    [end-time] => 17:24:03
+    [session-duration] => 00:00:51
+    [session-number] => 20250420-ABC123
+    [observer-initials] => D
+    [page-n] => 20250420-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [indication_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 2
+        )
+
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication: 1 | HH Action: 2
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_2_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_3_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_4_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[21-Apr-2025 11:08:29 UTC] ==== CF7 Raw Posted Data ====
+Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => PLASTIC SURGERY 1
+        )
+
+    [country] => Qatar
+    [periodnum] => 1
+    [date-of-observation] => 2025-04-21
+    [start-time] => 16:42:37
+    [end-time] => 16:42:59
+    [session-duration] => 00:00:22
+    [session-number] => 20250421-ABC123
+    [observer-initials] => 
+    [page-n] => 20250421-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => Doctor
+    [professional-code_1] => Array
+        (
+            [0] => 3.1
+        )
+
+    [num_1] => 123
+    [indication_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_1_2] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 4
+        )
+
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => 
+    [entry_2_data] => 
+    [entry_3_data] => 
+    [entry_4_data] => 
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[21-Apr-2025 11:08:29 UTC] ==== CF7 Raw Posted Data ====
+[21-Apr-2025 11:08:29 UTC] Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => PLASTIC SURGERY 1
+        )
+
+    [country] => Qatar
+    [periodnum] => 1
+    [date-of-observation] => 2025-04-21
+    [start-time] => 16:42:37
+    [end-time] => 16:42:59
+    [session-duration] => 00:00:22
+    [session-number] => 20250421-ABC123
+    [observer-initials] => 
+    [page-n] => 20250421-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => Doctor
+    [professional-code_1] => Array
+        (
+            [0] => 3.1
+        )
+
+    [num_1] => 123
+    [indication_1_1] => Array
+        (
+            [0] => 1
+        )
+
+    [hh-action_1_1] => Array
+        (
+            [0] => 3
+        )
+
+    [indication_1_2] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [hh-action_1_2] => Array
+        (
+            [0] => 4
+        )
+
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => Prof. Cat: Doctor
+Code: 3.1
+No: 123
+
+Opportunities:
+1. Indication: 1 | HH Action: 3
+2. Indication: 1, 2 | HH Action: 4
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_2_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_3_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_4_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[22-Apr-2025 13:47:53 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 13:51:37 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 13:54:37 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 13:54:38 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 14:11:25 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 14:11:29 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 14:11:34 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 14:12:01 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 14:20:10 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 14:28:05 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 17:02:13 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 17:02:14 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 17:02:20 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 17:02:21 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 17:03:23 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 17:35:30 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:51:36 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:52:14 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:52:17 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:52:44 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:52:48 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:56:27 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:58:50 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:58:53 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:59:09 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:59:11 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:59:15 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 22:59:23 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:12:17 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:12:21 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:12:28 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:12:33 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:16:32 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:18:30 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:18:34 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:18:45 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:19:39 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:19:43 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:19:54 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:19:59 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:06 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:08 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:12 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:14 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:36 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:46 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:20:56 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:00 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:03 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:22 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:28 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:40 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:53 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:56 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:21:59 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:22:11 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:22:29 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:22:58 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:23:00 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:23:30 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:23:39 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:23:40 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:23:44 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:23:59 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:15 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:25 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:32 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:37 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:40 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:51 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:54 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:24:58 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:25:02 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:34:49 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[22-Apr-2025 23:35:32 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[23-Apr-2025 04:32:51 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[23-Apr-2025 04:34:57 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[23-Apr-2025 04:34:58 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[23-Apr-2025 04:35:02 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[23-Apr-2025 05:05:12 UTC] PHP Parse error:  Unclosed '{' on line 23 in /home/ox1totqelo86/public_html/mmc-qa.com/MPMCHandHygiene/wp-content/plugins/cf7-hh-display/cf7-hh-display.php on line 80
+[23-Apr-2025 12:48:29 UTC] ==== CF7 Raw Posted Data ====
+Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => Qatar
+    [periodnum] => 
+    [date-of-observation] => 2025-04-23
+    [start-time] => 15:47:45
+    [end-time] => 15:48:29
+    [session-duration] => 00:00:43
+    [session-number] => 20250423-ABC123
+    [observer-initials] => 
+    [page-n] => 20250423-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => 
+    [entry_2_data] => 
+    [entry_3_data] => 
+    [entry_4_data] => 
+    [indication_1_1] => Array
+        (
+        )
+
+    [hh-action_1_1] => Array
+        (
+        )
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[23-Apr-2025 12:48:29 UTC] ==== CF7 Raw Posted Data ====
+[23-Apr-2025 12:48:29 UTC] Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => Qatar
+    [periodnum] => 
+    [date-of-observation] => 2025-04-23
+    [start-time] => 15:47:45
+    [end-time] => 15:48:29
+    [session-duration] => 00:00:43
+    [session-number] => 20250423-ABC123
+    [observer-initials] => 
+    [page-n] => 20250423-001
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_2_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_3_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_4_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [indication_1_1] => Array
+        (
+        )
+
+    [hh-action_1_1] => Array
+        (
+        )
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[23-Apr-2025 12:48:29 UTC] ==== CF7 Raw Posted Data ====
+Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => Qatar
+    [periodnum] => 
+    [date-of-observation] => 2025-04-23
+    [start-time] => 15:47:45
+    [end-time] => 15:48:29
+    [session-duration] => 00:00:43
+    [session-number] => 20250423-ABC123
+    [observer-initials] => 
+    [page-n] => 20250423-002
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => 
+    [entry_2_data] => 
+    [entry_3_data] => 
+    [entry_4_data] => 
+    [indication_1_1] => Array
+        (
+        )
+
+    [hh-action_1_1] => Array
+        (
+        )
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
+[23-Apr-2025 12:48:29 UTC] ==== CF7 Raw Posted Data ====
+[23-Apr-2025 12:48:29 UTC] Array
+(
+    [facility-name] => Array
+        (
+            [0] => Marble Plus Medical Center
+        )
+
+    [service] => Array
+        (
+            [0] => OPD
+        )
+
+    [ward] => Array
+        (
+            [0] => OP
+        )
+
+    [department] => Array
+        (
+            [0] => LASER 1
+        )
+
+    [country] => Qatar
+    [periodnum] => 
+    [date-of-observation] => 2025-04-23
+    [start-time] => 15:47:45
+    [end-time] => 15:48:29
+    [session-duration] => 00:00:43
+    [session-number] => 20250423-ABC123
+    [observer-initials] => 
+    [page-n] => 20250423-002
+    [city] => Array
+        (
+            [0] => Lusail
+        )
+
+    [prof-cat_1] => 
+    [professional-code_1] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_1] => 
+    [prof-cat_2] => 
+    [professional-code_2] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_2] => 
+    [prof-cat_3] => 
+    [professional-code_3] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_3] => 
+    [prof-cat_4] => 
+    [professional-code_4] => Array
+        (
+            [0] => 1.1
+        )
+
+    [num_4] => 
+    [reporting-month] => Apr-2025
+    [entry_1_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_2_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_3_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [entry_4_data] => Prof. Cat: 
+Code: 1.1
+No: 
+
+Opportunities:
+1. Indication:  | HH Action: 
+2. Indication:  | HH Action: 
+3. Indication:  | HH Action: 
+4. Indication:  | HH Action: 
+5. Indication:  | HH Action: 
+6. Indication:  | HH Action: 
+7. Indication:  | HH Action: 
+8. Indication:  | HH Action: 
+
+    [indication_1_1] => Array
+        (
+        )
+
+    [hh-action_1_1] => Array
+        (
+        )
+
+    [indication_1_2] => Array
+        (
+        )
+
+    [hh-action_1_2] => Array
+        (
+        )
+
+    [indication_1_3] => Array
+        (
+        )
+
+    [hh-action_1_3] => Array
+        (
+        )
+
+    [indication_1_4] => Array
+        (
+        )
+
+    [hh-action_1_4] => Array
+        (
+        )
+
+    [indication_1_5] => Array
+        (
+        )
+
+    [hh-action_1_5] => Array
+        (
+        )
+
+    [indication_1_6] => Array
+        (
+        )
+
+    [hh-action_1_6] => Array
+        (
+        )
+
+    [indication_1_7] => Array
+        (
+        )
+
+    [hh-action_1_7] => Array
+        (
+        )
+
+    [indication_1_8] => Array
+        (
+        )
+
+    [hh-action_1_8] => Array
+        (
+        )
+
+    [indication_2_1] => Array
+        (
+        )
+
+    [hh-action_2_1] => Array
+        (
+        )
+
+    [indication_2_2] => Array
+        (
+        )
+
+    [hh-action_2_2] => Array
+        (
+        )
+
+    [indication_2_3] => Array
+        (
+        )
+
+    [hh-action_2_3] => Array
+        (
+        )
+
+    [indication_2_4] => Array
+        (
+        )
+
+    [hh-action_2_4] => Array
+        (
+        )
+
+    [indication_2_5] => Array
+        (
+        )
+
+    [hh-action_2_5] => Array
+        (
+        )
+
+    [indication_2_6] => Array
+        (
+        )
+
+    [hh-action_2_6] => Array
+        (
+        )
+
+    [indication_2_7] => Array
+        (
+        )
+
+    [hh-action_2_7] => Array
+        (
+        )
+
+    [indication_2_8] => Array
+        (
+        )
+
+    [hh-action_2_8] => Array
+        (
+        )
+
+    [indication_3_1] => Array
+        (
+        )
+
+    [hh-action_3_1] => Array
+        (
+        )
+
+    [indication_3_2] => Array
+        (
+        )
+
+    [hh-action_3_2] => Array
+        (
+        )
+
+    [indication_3_3] => Array
+        (
+        )
+
+    [hh-action_3_3] => Array
+        (
+        )
+
+    [indication_3_4] => Array
+        (
+        )
+
+    [hh-action_3_4] => Array
+        (
+        )
+
+    [indication_3_5] => Array
+        (
+        )
+
+    [hh-action_3_5] => Array
+        (
+        )
+
+    [indication_3_6] => Array
+        (
+        )
+
+    [hh-action_3_6] => Array
+        (
+        )
+
+    [indication_3_7] => Array
+        (
+        )
+
+    [hh-action_3_7] => Array
+        (
+        )
+
+    [indication_3_8] => Array
+        (
+        )
+
+    [hh-action_3_8] => Array
+        (
+        )
+
+    [indication_4_1] => Array
+        (
+        )
+
+    [hh-action_4_1] => Array
+        (
+        )
+
+    [indication_4_2] => Array
+        (
+        )
+
+    [hh-action_4_2] => Array
+        (
+        )
+
+    [indication_4_3] => Array
+        (
+        )
+
+    [hh-action_4_3] => Array
+        (
+        )
+
+    [indication_4_4] => Array
+        (
+        )
+
+    [hh-action_4_4] => Array
+        (
+        )
+
+    [indication_4_5] => Array
+        (
+        )
+
+    [hh-action_4_5] => Array
+        (
+        )
+
+    [indication_4_6] => Array
+        (
+        )
+
+    [hh-action_4_6] => Array
+        (
+        )
+
+    [indication_4_7] => Array
+        (
+        )
+
+    [hh-action_4_7] => Array
+        (
+        )
+
+    [indication_4_8] => Array
+        (
+        )
+
+    [hh-action_4_8] => Array
+        (
+        )
+
+)
+
